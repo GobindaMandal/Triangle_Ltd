@@ -48,14 +48,6 @@
         <div class="mt-3">
           <x-input id="role" class="form-control" type="text" name="role" :value="old('role')" autofocus placeholder="Enter Your Role"/>
         </div>
-        <!-- <div class="mt-3">
-          <select name="role" id="role" class="form-control" :value="old('role')">
-            <option value="">-----Select Role-----</option>
-            <option value="1">Admin</option>
-            <option value="2">Vendor</option>
-            <option value="3">User</option>
-          </select>
-        </div> -->
 
         <!-- Phone Number -->
         <div class="mt-3">
